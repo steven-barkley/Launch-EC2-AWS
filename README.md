@@ -3,7 +3,7 @@ Hands-On
 Launching an EC2 Instance running Linux
 
 Step  
--Login to AWS Console
+- Login to AWS Console
 
 -Go to EC2 Console
 
