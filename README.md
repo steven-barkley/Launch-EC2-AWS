@@ -17,8 +17,8 @@ Launching an EC2 Instance running Linux
 - Configure storage ..... EBS volume size ...
 - Advanced details ......
           User data - passing a script to the EC2 instance (run only First time)
-- ? #!/bin/bash
-   "Use this for your user data (script from top to bottom)"
+   !/bin/bash?
+   Use this for your user data (script from top to bottom)
    install httpd (Linux 2 version)
    yum update -y
    yum install -y httpd
