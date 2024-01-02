@@ -17,6 +17,8 @@ Launching an EC2 Instance running Linux
 - Configure storage ..... EBS volume size ...
 - Advanced details ......
           User data - passing a script to the EC2 instance (run only First time)
+
+  ### Add the following to the User data section and display HTML
    !/bin/bash?
    Use this for your user data (script from top to bottom)
    install httpd (Linux 2 version)
@@ -30,3 +32,4 @@ Launching an EC2 Instance running Linux
 
   >1 Instance 
   >And review the Entity prelaunch
+  >Set launch data
