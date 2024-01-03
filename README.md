@@ -33,3 +33,5 @@ Launching an EC2 Instance running Linux
   >1 Instance 
   >And review the Entity prelaunch
   >Set launch data
+  >
+  >Next I would like to launch an EC2 instance solely from the AWS CLI or CloudShell
