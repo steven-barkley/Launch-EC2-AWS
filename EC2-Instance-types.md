@@ -9,3 +9,7 @@ m5.2xlarge
 | m      | 5 | large |
 
 
+
+Help resource
+
+ec2instances.info
