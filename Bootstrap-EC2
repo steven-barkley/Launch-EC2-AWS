@@ -10,7 +10,7 @@
 
 There are 100s of EC2 instance types
 
-|Instance|vCPU|Mem (GiB)|Storage|Network Performance|EBS Bandwidth (Mbps)|
+| Instance | vCPU | Mem (GiB)| Storage | Network Performance| EBS Bandwidth (Mbps) |
 |-------|---------|---------|---------|---------|---------|
 |t2.micro| 1 | 1 | EBS-Only | Low to Moderate | |
 |t2.xlarge| 4 | 16 | EBS-Only | Moderate | |
