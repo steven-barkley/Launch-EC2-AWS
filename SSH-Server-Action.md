@@ -4,7 +4,7 @@ Based on OS you would do it differently
 
 SSH or Putty based on OS
 
-||SSH|Putty|EC2 Instance Connect|
+|SSH|Putty|EC2 Instance Connect|
 |Mac|Yes| No | Yes
 |Linux|Yes| NO | Yes
 Window < 10 | No | Yes | No |
