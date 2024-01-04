@@ -10,3 +10,9 @@ Table |SSH|Putty|EC2 Instance Connect|
 |Linux|Yes| NO | Yes
 Window < 10 | No | Yes | No |
 Window >= 10| Yes | Yes | Yes |
+
+## EC2 How to connect to your server
+
+- EC2 Instance Connect
+- Putty
+- SSH using CMD or Powershell
