@@ -19,8 +19,3 @@ There are 100s of EC2 instance types
 |r5.16xlarge| 64 | 512 | EBS-Only | 20 Gbps | 13,600 |
 |m5.8xlarge| 32 | 128 | EBS-Only | 10 Gbps | 6,800 |
 
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
